@@ -1,0 +1,6 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.mex*
+*.mat
+.DS_Store
